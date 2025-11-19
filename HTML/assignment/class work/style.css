@@ -5,9 +5,7 @@
   gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 
- /* 3 fixed columns */
-} /* space between items */
-
+} 
 
 .item {
   background: lightblue;
